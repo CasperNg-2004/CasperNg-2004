@@ -46,6 +46,12 @@
 - LinkedIn: [Ng Yin Hern](https://www.linkedin.com/in/ng-yin-hern-02b629391/)
 - Email: [casperng2004@gmail.com](mailto:casperng2004@gmail.com)
 
+## 🎮 Favourite Game of All Time
+
+<p align="center">
+  <img src="assets/favourite-game.gif" width="600" alt="Favourite game of all time" />
+</p>
+
 ---
 
 <p align="center">
