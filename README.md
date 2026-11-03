@@ -35,7 +35,6 @@
 | **Cafe Drinks Scrapling System** | Using Crawlee as scraper library to scrap google map details related to restaurant | JavaScript | https://github.com/CasperNg-2004/Crawlee_Testing.git |
 | **Turn-Based Battle Game** | A turn-based battle game | Python | https://github.com/CasperNg-2004/Games.git |
 
-> 🔗 Add repo links to each project name, e.g. `[Password Manager](https://github.com/CasperNg-2004/your-repo)`
 
 ## 📚 Currently Learning
 
