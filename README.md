@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Yhchan 👋</h1>
+<h1>Hi, I'm Yhchan 👋</h1>
 
 <p align="center">
   Final-year Computer Science student at UTAR, Kampar<br>
@@ -10,8 +10,8 @@
 ## 🧑‍💻 About Me
 
 - 🎓 Final-year Bachelor of Computer Science student at **Universiti Tunku Abdul Rahman (UTAR)**, Kampar campus
-- 💼 Looking for a tech internship, mainly **IT / data-oriented** roles
-- 🎮 Exploring **game development** as a career path in Malaysia
+- 🐍 Python Language Enjoyer
+- 💼 Looking For Data Scientist & Data Analyst
 - 🗣️ I communicate in English, Bahasa Malaysia and Mandarin
 
 ## 🛠️ Tech & Tools
@@ -28,13 +28,12 @@
 
 ## 🚀 Projects
 
-| Project | Description | Tech |
-|---|---|---|
-| **AI-Driven IT Incident Prediction** | Hackathon project that predicts IT incidents, with explainability for the predictions | Isolation Forest, LSTM, XGBoost, FastAPI, SHAP, LIME |
-| **Password Manager** | Password manager with encryption | Python |
-| **Social Media Sentiment Scraper** | Collects post text from Facebook and analyzes sentiment and keywords | Python |
-| **LLM Q&A Chatbot** | General Q&A chatbot built on an LLM API | Python, OpenAI API |
-| **Turn-Based Battle Game** | A turn-based battle game | _add your language/engine_ |
+| Project | Description | Tech | Repo Link |
+|---|---|---|---|
+| **Food Saver App** | Offline-first Android pantry manager helps users track ingredients, monitor expiry dates, reduce food waste, and discover recipes that use food already available at home. | Kotlin, Java | https://github.com/CasperNg-2004/Food-Saver-App.git |
+| **Flight Ticket Management System** | Design a simple management system that allows user to manage flight ticket | C++ | https://github.com/CasperNg-2004/Flight-Ticket-Management-System.git |
+| **Cafe Drinks Scrapling System** | Using Crawlee as scraper library to scrap google map details related to restaurant | JavaScript | https://github.com/CasperNg-2004/Crawlee_Testing.git |
+| **Turn-Based Battle Game** | A turn-based battle game | Python | https://github.com/CasperNg-2004/Games.git |
 
 > 🔗 Add repo links to each project name, e.g. `[Password Manager](https://github.com/CasperNg-2004/your-repo)`
 
