@@ -1,4 +1,4 @@
-<h1>Hi, I'm Yhchan 👋</h1>
+<h1 align="center">Hi, I'm Yhchan 👋</h1>
 
 <p align="center">
   Final-year Computer Science student at UTAR, Kampar<br>
@@ -16,13 +16,12 @@
 
 ## 🛠️ Tech & Tools
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-![Blender](https://img.shields.io/badge/Blender-E87D0D?style=for-the-badge&logo=blender&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+<p>
+  <img src="https://skillicons.dev/icons?i=python,pandas,numpy,fastapi,jupyter,git,blender&perline=7" alt="Python, Pandas, NumPy, FastAPI, Jupyter, Git, Blender" />
+</p>
+<p>
+  <img src="https://skillicons.dev/icons?i=kotlin,java,cpp,js&perline=7" alt="Kotlin, Java, C++, JavaScript" />
+</p>
 
 **Areas:** Machine Learning · Computer Vision · Algorithms · Databases · Cloud Computing · 3D / Blender
 
@@ -30,11 +29,10 @@
 
 | Project | Description | Tech | Repo Link |
 |---|---|---|---|
-| **Food Saver App** | Offline-first Android pantry manager helps users track ingredients, monitor expiry dates, reduce food waste, and discover recipes that use food already available at home. | Kotlin, Java | https://github.com/CasperNg-2004/Food-Saver-App.git |
-| **Flight Ticket Management System** | Design a simple management system that allows user to manage flight ticket | C++ | https://github.com/CasperNg-2004/Flight-Ticket-Management-System.git |
-| **Cafe Drinks Scrapling System** | Using Crawlee as scraper library to scrap google map details related to restaurant | JavaScript | https://github.com/CasperNg-2004/Crawlee_Testing.git |
-| **Turn-Based Battle Game** | A turn-based battle game | Python | https://github.com/CasperNg-2004/Games.git |
-
+| **Food Saver App** | Offline-first Android pantry manager that helps users track ingredients, monitor expiry dates, reduce food waste, and discover recipes that use food already available at home. | Kotlin, Java | [View Repo](https://github.com/CasperNg-2004/Food-Saver-App) |
+| **Flight Ticket Management System** | A simple management system that allows users to manage flight tickets. | C++ | [View Repo](https://github.com/CasperNg-2004/Flight-Ticket-Management-System) |
+| **Cafe Drinks Scrapling System** | Uses Crawlee as the scraper library to collect Google Maps details related to restaurants. | JavaScript | [View Repo](https://github.com/CasperNg-2004/Crawlee_Testing) |
+| **Turn-Based Battle Game** | A turn-based battle game. | Python | [View Repo](https://github.com/CasperNg-2004/Games) |
 
 ## 📚 Currently Learning
 
@@ -46,7 +44,7 @@
 
 - GitHub: [@CasperNg-2004](https://github.com/CasperNg-2004)
 - LinkedIn: [Ng Yin Hern](https://www.linkedin.com/in/ng-yin-hern-02b629391/)
-- Email: [CasperNg](casperng2004@gmail.com)
+- Email: [casperng2004@gmail.com](mailto:casperng2004@gmail.com)
 
 ---
 
