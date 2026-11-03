@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Yhchan 👋</h1>
+<h1 align="center">Hi, I'm Casper</h1>
 
 <p align="center">
   Final-year Computer Science student at UTAR, Kampar<br>
