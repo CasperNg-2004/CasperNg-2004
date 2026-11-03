@@ -20,7 +20,7 @@
   <img src="https://skillicons.dev/icons?i=python,docker,fastapi,supabase,git,blender&perline=7" alt="Python, Docker, Supabase, Git, Blender" />
 </p>
 <p>
-  <img src="https://skillicons.dev/icons?i=kotlin,java,cpp,js&perline=7" alt="Kotlin, Java, C++, JavaScript" />
+  <img src="https://skillicons.dev/icons?i=kotlin,java,cpp,js,vscode&perline=7" alt="Kotlin, Java, C++, JavaScript, VS Code Studio" />
 </p>
 
 **Areas:** Machine Learning · Computer Vision · Algorithms · Databases · Cloud Computing · 3D / Blender
