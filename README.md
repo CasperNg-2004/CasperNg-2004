@@ -49,7 +49,7 @@
 ## 🎮 Favourite Game of All Time
 
 <p align="center">
-  <img src="assets/favourite-game.gif" width="600" alt="Favourite game of all time" />
+  <img src="123.gif" width="600" alt="Favourite game of all time" />
 </p>
 
 ---
