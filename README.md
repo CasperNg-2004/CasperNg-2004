@@ -46,8 +46,8 @@
 ## 📫 Let's Connect
 
 - GitHub: [@CasperNg-2004](https://github.com/CasperNg-2004)
-- LinkedIn: _add your link_
-- Email: _add your email_
+- LinkedIn: [Ng Yin Hern](https://www.linkedin.com/in/ng-yin-hern-02b629391/)
+- Email: [CasperNg](casperng2004@gmail.com)
 
 ---
 
