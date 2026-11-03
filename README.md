@@ -17,7 +17,7 @@
 ## 🛠️ Tech & Tools
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,pandas,numpy,fastapi,jupyter,git,blender&perline=7" alt="Python, JavaScript, NumPy, FastAPI, Jupyter, Git, Blender" />
+  <img src="https://skillicons.dev/icons?i=python,docker,fastapi,supabase,git,blender&perline=7" alt="Python, Docker, Supabase, Git, Blender" />
 </p>
 <p>
   <img src="https://skillicons.dev/icons?i=kotlin,java,cpp,js&perline=7" alt="Kotlin, Java, C++, JavaScript" />
