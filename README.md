@@ -44,7 +44,7 @@
 
 - GitHub: [@CasperNg-2004](https://github.com/CasperNg-2004)
 - LinkedIn: [Ng Yin Hern](https://www.linkedin.com/in/ng-yin-hern-02b629391/)
-- Email: [casperng2004@gmail.com](mailto:casperng2004@gmail.com)
+- Email: [ngyinhern@gmail.com](mailto:ngyinhern@gmail.com)
 
 ## 🎮 Favourite Game of All Time
 
