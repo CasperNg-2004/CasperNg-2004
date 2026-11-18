@@ -1,59 +1,93 @@
-<h1 align="center">Hi, I'm Yin Hern</h1>
+<h1 align="center">Hi, I'm Yin Hern 👋</h1>
 
 <p align="center">
   Final-year Computer Science student at UTAR, Kampar<br>
-  Interested in data, AI/backend and game development
+  Interested in data science, AI, backend development, and building games
 </p>
 
----
+<p align="center">
+  <a href="https://www.linkedin.com/in/ng-yin-hern-02b629391/">LinkedIn</a> ·
+  <a href="mailto:ngyinhern@gmail.com">Email</a> ·
+  <a href="https://github.com/CasperNg-2004?tab=repositories">My projects</a>
+</p>
 
 ## 🧑‍💻 About Me
 
-- 🎓 Final-year Bachelor of Computer Science student at **Universiti Tunku Abdul Rahman (UTAR)**, Kampar campus
-- 🐍 Python Language Enjoyer
-- 💼 Looking For Data Scientist & Data Analyst
-- 🗣️ I communicate in English, Bahasa Malaysia and Mandarin
+I'm a final-year Bachelor of Computer Science student at **Universiti Tunku Abdul Rahman (UTAR), Kampar campus**. I enjoy working with Python and exploring how data and software can solve everyday problems.
 
-## 🛠️ Tech & Tools
+- 💼 Seeking opportunities as a **Data Scientist or Data Analyst**
+- 🔎 Interested in machine learning, computer vision, and backend development
+- 🗣️ I communicate in English, Bahasa Malaysia, and Mandarin
+- 🎮 I also enjoy game development and working with Blender
+
+## 🚀 Featured Projects
+
+### [Google Maps Café & Drinks Data Pipeline](https://github.com/CasperNg-2004/Crawlee_Testing)
+
+Collects café and drinks data from Google Maps, classifies photos with CLIP, extracts menu text with PaddleOCR, and compares photographed menus with typed menus. Exports results to JSON, CSV, and Excel for analysis.
+
+**Tech:** JavaScript · Python · Crawlee · Playwright · CLIP · PaddleOCR
+
+### [PantryPal — Food Saver App](https://github.com/CasperNg-2004/Food-Saver-App)
+
+An offline-first Android pantry manager built by Group 12. Tracks ingredients and expiry dates, provides expiry notifications, and suggests recipes using available ingredients. Stores data locally and works without internet access.
+
+**Tech:** Kotlin · Java · Android · WorkManager
+
+### [Flight Ticket Management System](https://github.com/CasperNg-2004/Flight-Ticket-Management-System)
+
+A Windows console application covering account registration, flight booking, booking amendments, simulated payments, passenger check-in, and invoice generation, with local JSON storage.
+
+**Tech:** C++20 · MSVC · JSON
+
+### [Turn-Based Battle Game](https://github.com/CasperNg-2004/Games)
+
+A Python turn-based battle game exploring game logic and interactive gameplay.
+
+**Tech:** Python
+
+## 🛠️ Languages & Tools
+
+| Category | Technologies |
+| --- | --- |
+| Languages | Python, JavaScript, Kotlin, Java, C++ |
+| Backend & Data | FastAPI, Supabase |
+| Development Tools | Git, Docker, VS Code |
+| Creative Tools | Blender |
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,docker,fastapi,supabase,git,blender&perline=7" alt="Python, Docker, Supabase, Git, Blender" />
-</p>
-<p>
-  <img src="https://skillicons.dev/icons?i=kotlin,java,cpp,js,vscode&perline=7" alt="Kotlin, Java, C++, JavaScript, VS Code Studio" />
+  <img src="https://skillicons.dev/icons?i=python,js,kotlin,java,cpp,fastapi,supabase,docker,git,vscode,blender&amp;perline=6" alt="Python, JavaScript, Kotlin, Java, C++, FastAPI, Supabase, Docker, Git, VS Code, and Blender" />
 </p>
 
-**Areas:** Machine Learning · Computer Vision · Algorithms · Databases · Cloud Computing · 3D / Blender
-
-## 🚀 Projects
-
-| Project | Description | Tech | Repo Link |
-|---|---|---|---|
-| **Food Saver App** | Offline-first Android pantry manager that helps users track ingredients, monitor expiry dates, reduce food waste, and discover recipes that use food already available at home. | Kotlin, Java | [View Repo](https://github.com/CasperNg-2004/Food-Saver-App) |
-| **Flight Ticket Management System** | A simple management system that allows users to manage flight tickets. | C++ | [View Repo](https://github.com/CasperNg-2004/Flight-Ticket-Management-System) |
-| **Cafe Drinks Scrapling System** | Uses Crawlee as the scraper library to collect Google Maps details related to restaurants. | JavaScript | [View Repo](https://github.com/CasperNg-2004/Crawlee_Testing) |
-| **Turn-Based Battle Game** | A turn-based battle game. | Python | [View Repo](https://github.com/CasperNg-2004/Games) |
+**Other interests:** Databases · Cloud computing · 3D modelling
 
 ## 📚 Currently Learning
 
-- Computer Vision (traffic sign recognition)
-- Algorithms and complexity analysis
-- Machine learning pipelines: regression, classification, cross-validation
+- **Computer vision:** Traffic sign recognition
+- **Machine learning:** Regression, classification, and cross-validation
+- **Algorithms:** Complexity analysis and problem solving
 
 ## 📫 Let's Connect
 
-- GitHub: [@CasperNg-2004](https://github.com/CasperNg-2004)
-- LinkedIn: [Ng Yin Hern](https://www.linkedin.com/in/ng-yin-hern-02b629391/)
-- Email: [ngyinhern@gmail.com](mailto:ngyinhern@gmail.com)
+I'm happy to connect about data science and analytics opportunities, Python, or the projects above.
+
+- **LinkedIn:** [Ng Yin Hern](https://www.linkedin.com/in/ng-yin-hern-02b629391/)
+- **Email:** [ngyinhern@gmail.com](mailto:ngyinhern@gmail.com)
+- **GitHub:** [@CasperNg-2004](https://github.com/CasperNg-2004)
 
 ## 🎮 Favourite Game of All Time
 
 <p align="center">
-  <img src="123.gif" width="600" alt="Favourite game of all time" />
+  <img src="./123.gif" width="600" alt="An animated clip from my favourite game" />
 </p>
 
----
+<details>
+  <summary>📊 GitHub Stats</summary>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=CasperNg-2004&show_icons=true&theme=default" alt="GitHub stats" />
-</p>
+  <p align="center">
+    <a href="https://github.com/CasperNg-2004">
+      <img src="https://github-readme-stats.vercel.app/api?username=CasperNg-2004&amp;show_icons=true&amp;theme=default" alt="Yin Hern's GitHub activity statistics" />
+    </a>
+  </p>
+</details>
+
