@@ -93,20 +93,13 @@ I'm happy to connect about data science and analytics opportunities, Python, or 
 
 <h2><img src="./profile-assets/off-the-clock.svg" width="360" alt="Off the Clock" /></h2>
 
-<p align="center"><strong>My favourite game of all time</strong></p>
+
+
 
 <p align="center">
-  <img src="./123.gif" width="600" alt="An animated clip from my favourite game" />
+  <a href="https://github.com/CasperNg-2004">
+    <img src="https://github-readme-stats.vercel.app/api?username=CasperNg-2004&amp;show_icons=true&amp;bg_color=1d1633&amp;title_color=c6a5fa&amp;text_color=d3c7e5&amp;icon_color=7be1df&amp;border_color=514071" alt="Yin Hern's GitHub activity statistics" />
+  </a>
 </p>
-
-<details>
-  <summary>📊 View GitHub Stats</summary>
-
-  <p align="center">
-    <a href="https://github.com/CasperNg-2004">
-      <img src="https://github-readme-stats.vercel.app/api?username=CasperNg-2004&amp;show_icons=true&amp;bg_color=1d1633&amp;title_color=c6a5fa&amp;text_color=d3c7e5&amp;icon_color=7be1df&amp;border_color=514071" alt="Yin Hern's GitHub activity statistics" />
-    </a>
-  </p>
-</details>
 
 <p align="center"><sub>Code, data, and one more side quest.</sub></p>
