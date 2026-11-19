@@ -102,4 +102,18 @@ I'm happy to connect about data science and analytics opportunities, Python, or 
   </a>
 </p>
 
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=CasperNg-2004&amp;layout=compact&amp;langs_count=8&amp;bg_color=1d1633&amp;title_color=c6a5fa&amp;text_color=d3c7e5&amp;border_color=514071"
+    alt="Most-used languages in my repositories"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="https://streak-stats.demolab.com/?user=CasperNg-2004&amp;background=1D1633&amp;border=514071&amp;ring=C6A5FA&amp;fire=7BE1DF&amp;currStreakLabel=C6A5FA&amp;sideLabels=D3C7E5&amp;currStreakNum=FFFFFF&amp;sideNums=FFFFFF&amp;dates=AAA2C3"
+    alt="GitHub contribution streak"
+  />
+</p>
+
 <p align="center"><sub>Code, data, and one more side quest.</sub></p>
